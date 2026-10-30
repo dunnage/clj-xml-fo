@@ -1,0 +1,22 @@
+{:cljdoc.doc/tree
+ [["Readme" {:file "README.md"}]
+  ["Guide" {:file "doc/README.md"}
+   ["The data model" {:file "doc/data-model.md"}]
+   ["Page layout" {:file "doc/page-layout.md"}]
+   ["Validation" {:file "doc/validation.md"}]
+   ["Rendering" {:file "doc/rendering.md"}]
+   ["Text" {:file "doc/text.md"}]
+   ["Spacing, borders and backgrounds" {:file "doc/spacing-borders-backgrounds.md"}]
+   ["Leaders and rules" {:file "doc/leaders.md"}]
+   ["Lists" {:file "doc/lists.md"}]
+   ["Tables" {:file "doc/tables.md"}]
+   ["Block containers" {:file "doc/block-containers.md"}]
+   ["Multi-column layout" {:file "doc/columns.md"}]
+   ["Images and SVG" {:file "doc/images-and-svg.md"}]
+   ["Headers and footers" {:file "doc/headers-and-footers.md"}]
+   ["Links and tables of contents" {:file "doc/links-and-toc.md"}]
+   ["Footnotes" {:file "doc/footnotes.md"}]
+   ["Markers" {:file "doc/markers.md"}]
+   ["Page breaks and keeps" {:file "doc/breaks-and-keeps.md"}]
+   ["Streaming" {:file "doc/streaming.md"}]
+   ["Element reference" {:file "doc/element-reference.md"}]]]}
