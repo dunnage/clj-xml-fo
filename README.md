@@ -27,6 +27,10 @@ between. Content can stream.
 (fo/xml-string doc)            ;=> "<?xml ...?><fo:root xmlns:fo=\"http://www.w3.org/1999/XSL/Format\">..."
 ```
 
+**Documentation:** [doc/README.md](doc/README.md) is an example-heavy guide
+to writing XSL-FO as data, with a page per feature. Each example has its
+rendered PDF and a screenshot.
+
 ## Installation
 
 clj-xml-fo is a deps.edn library, released to Clojars as
